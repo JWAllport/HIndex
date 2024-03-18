@@ -1,0 +1,14 @@
+/Users/jallport/Documents/C#Practice/C#Practice/bin/Debug/net7.0/C#Practice
+/Users/jallport/Documents/C#Practice/C#Practice/bin/Debug/net7.0/C#Practice.deps.json
+/Users/jallport/Documents/C#Practice/C#Practice/bin/Debug/net7.0/C#Practice.runtimeconfig.json
+/Users/jallport/Documents/C#Practice/C#Practice/bin/Debug/net7.0/C#Practice.dll
+/Users/jallport/Documents/C#Practice/C#Practice/bin/Debug/net7.0/C#Practice.pdb
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/C#Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/C#Practice.AssemblyInfoInputs.cache
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/C#Practice.AssemblyInfo.cs
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/C#Practice.csproj.CoreCompileInputs.cache
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/C#Practice.dll
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/refint/C#Practice.dll
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/C#Practice.pdb
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/C#Practice.genruntimeconfig.cache
+/Users/jallport/Documents/C#Practice/C#Practice/obj/Debug/net7.0/ref/C#Practice.dll
